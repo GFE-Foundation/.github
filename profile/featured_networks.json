@@ -63,7 +63,8 @@
         "title": "GFE",
         "url": "https://explorer.gfe.foundation",
         "group": "Testnets",
-        "icon": "https://raw.githubusercontent.com/GFE-Foundation/.github/auxiliary/profile/icon.svg"
+        "icon": "https://raw.githubusercontent.com/GFE-Foundation/.github/auxiliary/profile/icon.svg",
+        "isActive": true
     },
     {
         "title": "Goerli",
@@ -76,8 +77,7 @@
         "title": "Sepolia",
         "url": "https://eth-sepolia.blockscout.com/",
         "group": "Testnets",
-        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png",
-        "isActive": true
+        "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/sepolia.png"
     },
     {
         "title": "Holesky",
