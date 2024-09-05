@@ -63,7 +63,7 @@
         "title": "GFE",
         "url": "https://explorer.gfe.foundation",
         "group": "Testnets",
-        "icon": "https://raw.githubusercontent.com/GFE-Foundation/.github/main/profile/GFE.svg"
+        "icon": "https://raw.githubusercontent.com/GFE-Foundation/.github/auxiliary/profile/icon.svg"
     },
     {
         "title": "Goerli",
